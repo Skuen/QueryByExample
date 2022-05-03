@@ -1,11 +1,12 @@
 # QueryByExample
+
 -Base on Query By Example feature of Access
+
 ==============================
 -2 main funtion:
-
 +Create query with interface
-
 +Create report with that query
+
 ============================
 -Require:
 
